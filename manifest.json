@@ -1,0 +1,13 @@
+{
+    "name": "Email Scrapper",
+    "description": "Scrap email from any web pages",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ]
+}

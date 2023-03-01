@@ -1,0 +1,13 @@
+body{
+    min-width: 300px;
+}
+
+.center{
+
+    text-align:center;
+}
+
+ul{
+    list-style-type:none;
+    text-align: left;
+}
